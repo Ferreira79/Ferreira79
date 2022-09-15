@@ -9,9 +9,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Ferreira79)
+![](https://visitor-badge.glitch.me/badge?page_id=Ferreira79.Ferreira79)
 
-📈 my github stats
+📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ferreira79&show_icons=true&theme=gotham" alt="Ferreira79" />
 
