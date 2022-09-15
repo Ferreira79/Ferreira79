@@ -7,6 +7,11 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ferreira79&show_icons=true&theme=gotham" alt="Ferreira79" />
+
 <!--
 **Ferreira79/Ferreira79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
