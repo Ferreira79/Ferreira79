@@ -20,6 +20,9 @@ This description has been reviewed for a IA!!
 
 > Tools, languages, and other things that I like even I would like to work with.
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ferreira79&show_icons=true&theme=gotham" alt="Ferreira79" />
