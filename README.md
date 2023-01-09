@@ -16,6 +16,10 @@ This description about me has been reviewed for a IA!!
 - Master’s degree in **BIODIVERSITY CONSERVATION** @ Rey Juan Carlos University(2014 - 2016)
 - Bachelor's degree in **ENVIRONMENTAL SCIENCE @ Rey Juan Carlos University (2006 - 2013)
 
+### Projects 🐾
+
+- [EDA](https://github.com/Ferreira79/Why-accounting-about-GDP-is-wrong-) - There is a way to measure the progress taking into account the environment?
+- [MULTICOLINEALITY](https://github.com/Ferreira79/EDA-Indicadores-compuestos) - There is a multicolineality between composite index all related with 2030´s Agenda?
 
 ### Do you want to contact me
 
