@@ -1,5 +1,12 @@
 ### Hi there!!! I am Victor Manuel Ferreira Martinez 👋
 
+"I hold a Bachelor's degree in Environmental Science and a Master's degree in Biodiversity Conservation. In addition, I have a Master's degree in Data Science and Business Analytics. My passion for climate change and sustainability has led me to work with natural capital and ecosystem services, and I have come to realize the importance of data in decision-making. As a result, I am eager to continue developing my skills in the field of data science and hope to pursue a Doctorate in the future."
+
+"I am seeking a position where I can utilize and further develop my diverse skillset. As a data analyst, I am eager to continue learning and improving my skills. I hope to find a role where I can contribute to the analysis and interpretation of data in order to inform decision-making and drive positive impact."
+
+This description has been reviewed for a IA!! 
+
+
 <a href="https://twitter.com/FerreSostenible">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
