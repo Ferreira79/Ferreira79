@@ -13,7 +13,7 @@ This description has been reviewed for a IA!!
 ![](https://visitor-badge.glitch.me/badge?page_id=Ferreira79.VictorManuelFerreiraMartinez)
 
 
-## Do you want to contact me?
+## Do you want to contact me
 
 <a href="https://twitter.com/FerreSostenible">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -26,7 +26,7 @@ This description has been reviewed for a IA!!
 </a>
 
 
-## Languages and tools
+## Languages and Tools
 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
