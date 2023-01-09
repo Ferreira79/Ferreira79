@@ -33,8 +33,12 @@ This description about me has been reviewed for a IA!!
 <p align="left"> <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 
 <img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
+  
+<img title="PowerBi" src="https://raw.githubusercontent.com/OscarValerock/Power-BI-Icons/master/Icons%20PNG/Power%20BI%20Icon.png" witdth="80" height="50" alt="Power BI Icon"/>
 
 <img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
+  
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
 ### Do you want to contact me 📫
 
