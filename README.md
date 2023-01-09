@@ -21,6 +21,13 @@ This description about me has been reviewed for a IA!!
 - [EDA](https://github.com/Ferreira79/Why-accounting-about-GDP-is-wrong-) - Is there a way to measure the economic progress taking into account the environment?
 - [MULTICOLINEALITY](https://github.com/Ferreira79/EDA-Indicadores-compuestos) - "Is there multicollinearity among all the composite indices analyzed?"
 
+### Certifications 📜
+
+- [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/learn/lecture/3470506?start=0#overview) @ Udemy
+- [Master en Machine Learning - Aprende R y Python desde cero](https://www.udemy.com/course/draft/2681366/learn/lecture/17141568?start=0#overview) @ Udemy
+- [Curso completo de Estadística descriptiva - RStudio y Python](https://www.udemy.com/course/estadistica-descriptiva/learn/lecture/13083930?start=0#overview) @ Udemy
+- [SQL Server: Nivel 1 Sentencias Principales](https://www.udemy.com/course/introduccion-al-lenguaje-sql-server/learn/lecture/16660274?start=0#overview) @ Udemy
+
 ### Languages and Tools 🛠️
 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -43,6 +50,5 @@ This description about me has been reviewed for a IA!!
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ferreira79&show_icons=true&theme=gotham" alt="Ferreira79" />
   
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreira79&hide=TeX&layout=compact)
 
