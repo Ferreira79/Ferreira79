@@ -43,20 +43,15 @@ This description about me has been reviewed for a IA!!
 ### Do you want to contact me 📫
 
 <a href="https://twitter.com/FerreSostenible">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ferreiravictorm/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:ferreira.victorm@hotmail.com" rel="me">📫📫</a> 
-  <img align="left" width="22px"/>
+<a href="mailto:ferreira.victorm@hotmail.com" rel="me">📫</a> 
+  <img align="left" width="50px"/>
 </a>
 
-
-### 📈 My Github Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ferreira79&show_icons=true&theme=gotham" alt="Ferreira79" />
-  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreira79&hide=TeX&layout=compact)
 
