@@ -30,7 +30,7 @@ This description has been reviewed for a IA!!
 ### Do you want to contact me?
 
 <ul>
-<li><a href="mailto:ferreira.victorm@hotmail.com" rel="me">📫📫Send me a Mail📫📫</a> 
+<li><a href="mailto:ferreira.victorm@hotmail.com" rel="me">📫📫</a> 
 
 
 
