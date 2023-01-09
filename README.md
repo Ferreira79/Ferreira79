@@ -8,6 +8,12 @@ A passionate spanish enviromental data analyst!!!!!!
 
 This description has been reviewed for a IA!! 
 
+## I am the most of my visitors
+
+![](https://visitor-badge.glitch.me/badge?page_id=Ferreira79.VictorManuelFerreiraMartinez)
+
+
+## Do you want to contact me?
 
 <a href="https://twitter.com/FerreSostenible">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -15,36 +21,21 @@ This description has been reviewed for a IA!!
 <a href="https://www.linkedin.com/in/ferreiravictorm/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="mailto:ferreira.victorm@hotmail.com" rel="me">📫📫</a> 
+  <img align="left" width="22px"/>
+</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Ferreira79.VictorManuelFerreiraMartinez)
 
-> Tools, languages, and other things that I like even I would like to work with.
+## Languages and tools
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-📈 My Github Stats
+
+## 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ferreira79&show_icons=true&theme=gotham" alt="Ferreira79" />
   
-### Do you want to contact me?
-
-<ul>
-<li><a href="mailto:ferreira.victorm@hotmail.com" rel="me">📫📫</a> 
 
 
 
-<!--
-**Ferreira79/Ferreira79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
