@@ -48,9 +48,8 @@ This description about me has been reviewed for a IA!!
 <a href="https://www.linkedin.com/in/ferreiravictorm/">
   <img align="left" alt="Abhishek's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:ferreira.victorm@hotmail.com" rel="me">📫</a> 
+<a href="mailto:ferreira.victorm@hotmail.com"> src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Virtual-Agents-Colored.png" />
   <img align="left" width="50px"/>
-</a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreira79&hide=TeX&layout=compact)
