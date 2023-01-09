@@ -18,8 +18,8 @@ This description about me has been reviewed for a IA!!
 
 ### Projects 🐾
 
-- [EDA](https://github.com/Ferreira79/Why-accounting-about-GDP-is-wrong-) - There is a way to measure the progress taking into account the environment?
-- [MULTICOLINEALITY](https://github.com/Ferreira79/EDA-Indicadores-compuestos) - There is a multicolineality between composite index all related with 2030´s Agenda?
+- [EDA](https://github.com/Ferreira79/Why-accounting-about-GDP-is-wrong-) - Is there a way to measure the economic progress taking into account the environment?
+- [MULTICOLINEALITY](https://github.com/Ferreira79/EDA-Indicadores-compuestos) - "Is there multicollinearity among all the composite indices analyzed?"
 
 ### Languages and Tools 🛠️
 
