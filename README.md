@@ -14,7 +14,7 @@ This description about me has been reviewed for a IA!!
 
 - Master’s degree in **DATA SCIENCE AND BUSINESS ANALYTICS** @ IMF Smart Education (2020 - 2022)
 - Master’s degree in **BIODIVERSITY CONSERVATION** @ Rey Juan Carlos University(2014 - 2016)
-- Bachelor's degree in **ENVIRONMENTAL SCIENCE @ Rey Juan Carlos University (2006 - 2013)
+- Bachelor's degree in **ENVIRONMENTAL SCIENCE** @ Rey Juan Carlos University (2006 - 2013)
 
 ### Projects 🐾
 
