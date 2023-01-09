@@ -21,7 +21,11 @@ This description about me has been reviewed for a IA!!
 - [EDA](https://github.com/Ferreira79/Why-accounting-about-GDP-is-wrong-) - There is a way to measure the progress taking into account the environment?
 - [MULTICOLINEALITY](https://github.com/Ferreira79/EDA-Indicadores-compuestos) - There is a multicolineality between composite index all related with 2030´s Agenda?
 
-### Do you want to contact me
+### Languages and Tools 🛠️
+
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+### Do you want to contact me 📫
 
 <a href="https://twitter.com/FerreSostenible">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -32,11 +36,6 @@ This description about me has been reviewed for a IA!!
 <a href="mailto:ferreira.victorm@hotmail.com" rel="me">📫📫</a> 
   <img align="left" width="22px"/>
 </a>
-
-
-### Languages and Tools
-
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 ### 📈 My Github Stats
